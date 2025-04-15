@@ -1,29 +1,3 @@
-/*
-COMP 390: Computer Graphics
-Final Project
-By: Kimia Mehr Bakhsh
-Student Number: 3678102
-Dear Dr. Liaqat thank you for giving me a second chance.
-
-Description: this project is presenting option 1. I have tried to demonstrate all the requirements
-that was given in the project description, but also be more creative and try to play around with different techniques that
-I have learned in this course. For instance, I have created some of my object as lists, I have used transformation techniques
-such as translate and scale in scaleAndTranslateHouse() to create an additional object.
-
-I have also tried to incorporate more efficient codes such creating and reusing vertices and indicies when drawing
-pyramids and cubes. I used a beautiful background photo to demonstrate the texture background and togther with 
-the foggy atmospheric effect, it intensifies the effect of gloominess in the scene. 
-
-In addition I have added three light sources which you can find the code in init(). One light is positioned 
-on top of the scene and the other two are directing at two differnt sides, one is blue and the other is red.
-
-If I had more time I would have loved to add on more objects such as another person. I also was trying to add lights to 
-the light bulps in the scene but I don't think that is possible. This is the best I could've done with the time I had.
-
-I have tried to listen to your constructive feedback in my previous attempt, and did not use any code from previous
- assignments and tried to create an original work from scratch. I hope this is more to your liking. Thank  you again for 
- your time and help.
-*/
 
 #include <GL/glut.h>
 #include <iostream>
